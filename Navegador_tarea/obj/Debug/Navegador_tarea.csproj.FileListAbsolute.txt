@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\bin\Debug\Navegador_tarea.exe.config
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\bin\Debug\Navegador_tarea.exe
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\bin\Debug\Navegador_tarea.pdb
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.Form1.resources
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.Properties.Resources.resources
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.exe
+C:\Users\admin\source\repos\Navegador_solucion\Navegador_tarea\obj\Debug\Navegador_tarea.pdb
